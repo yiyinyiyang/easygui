@@ -1,3 +1,6 @@
+#使用while 循环写的猜数游戏
+
+
 import random,easygui
 key= random.randint(1,100)
 tries = 0

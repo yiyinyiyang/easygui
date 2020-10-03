@@ -1,3 +1,6 @@
+#使用for循环写猜数游戏 
+
+
 import random,easygui
 key= random.randint(1,100)
     
