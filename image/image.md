@@ -23,3 +23,29 @@ dev yangyanghub(url):
 dev yangyanghub(url):
     return url
 ```
+##添加 有序排列 无序排列
+
+1. 第一 
+    1. 第一一
+    2. 第二二
+2. 第二
+3. 第三
+
+* 第一
+    * 第一一
+    * 第二二
+* 第二
+* 第四
+* 第五
+
+##插入 表情EMOJI
+
+https://www.webfx.com/tools/emoji-cheat-sheet/
+
+:egg: :100: 
+
+##插入表格
+标题1 | 标题2
+---|---------
+大写|小写 
+偏旁|部首
