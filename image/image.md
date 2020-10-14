@@ -1,4 +1,7 @@
 ##插入图片
+
+https://pixabay.com/
+
 ![网络图片插入](https://cdn.pixabay.com/photo/2020/10/09/06/09/rabbit-5639615_960_720.jpg)
 ![github本地图片PNG插入](/image/dragon.png)
 ![github本地图片JPG插入](/image/download.jpg)
@@ -40,6 +43,8 @@ dev yangyanghub(url):
 
 ##插入 表情EMOJI
 
+
+
 https://www.webfx.com/tools/emoji-cheat-sheet/
 
 :egg: :100: 
@@ -49,3 +54,28 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 ---|---------
 大写|小写 
 偏旁|部首
+
+## 插入任务选择
+- [X] 任务1
+- [ ] 任务2
+- [x] 任务3
+
+## 字体 斜体 加粗 2种表示  同时加粗和斜体 字体横穿
+*字体*
+
+**字体**
+
+_字体_
+
+__字体__ 
+
+__*字体*__
+
+*__字体__*
+
+~字体~
+
+
+
+
+
